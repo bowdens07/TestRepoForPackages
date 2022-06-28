@@ -1,0 +1,19 @@
+{
+  "name": "template-confused",
+  "version": "1.0.0",
+  "description": "test template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowdens07/TestRepoForPackages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bowdens07/TestRepoForPackages/issues"
+  },
+  "homepage": "https://github.com/bowdens07/TestRepoForPackages#readme"
+}
