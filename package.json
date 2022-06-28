@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bowdens07/TestRepoForPackages/issues"
   },
-  "homepage": "https://github.com/bowdens07/TestRepoForPackages#readme"
+  "homepage": "https://github.com/bowdens07/TestRepoForPackages#readme",
+  "publishConfig": {
+   "@bowdens07:registry": "https://npm.pkg.github.com"
+ }
 }
